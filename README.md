@@ -2,8 +2,4 @@
 Fasil PS
 Panikka veetil (H)
 Pazhuvil PO
-<<<<<<< HEAD
-
-=======
 Thrissur
->>>>>>> Commit 2
